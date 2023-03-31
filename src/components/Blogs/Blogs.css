@@ -1,0 +1,10 @@
+.blogs-area{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding-left: 150px;
+}
+
+.blogs-container{
+    display: grid;
+    gap: 40px;
+}
