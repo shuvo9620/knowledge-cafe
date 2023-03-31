@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "coverImage": "https://images.unsplash.com/photo-1537432376769-00f5c2f4c8d2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
+      "authorImage": "https://images.unsplash.com/profile-1590995584854-8f3fd95d401cimage?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+      "authorName": "Pakata Goh",
+      "title": "What I see daily as I strive to become better as a self taught developer. The journey is a long one, and that’s great because the journey is the awesome part.Enjoy",
+      "readingTime": "5 min read",
+      "publishDate": "10 April"
+    },
+    {
+      "id": 2,
+      "coverImage": "https://images.unsplash.com/photo-1521898284481-a5ec348cb555?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "authorImage": "https://images.unsplash.com/profile-1648828806223-1852f704c58aimage?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+      "authorName": "Annie Spratt",
+      "title": "Team work, work colleagues, working together",
+      "readingTime": "15 min read",
+      "publishDate": "15 March"
+    },
+    {
+        "id": 3,
+        "coverImage": "https://images.unsplash.com/photo-1537511446984-935f663eb1f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "authorImage": "https://images.unsplash.com/profile-1518459202474-92ccd42ef7c5?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+        "authorName": "bruce mars",
+        "title": "Business is the key to get rich fast",
+        "readingTime": "13 min read",
+        "publishDate": "14 Feb"
+      },
+      {
+        "id": 4,
+        "coverImage": "https://images.unsplash.com/photo-1517230878791-4d28214057c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=869&q=80",
+        "authorImage": "https://images.unsplash.com/profile-1541614615611-ebe98db82a6d?dpr=1&auto=format&fit=crop&w=150&h=150&q=60&crop=faces&bg=fff",
+        "authorName": "Elizeu Dias",
+        "title": "How to sing on stage vastly",
+        "readingTime": "09 min read",
+        "publishDate": "16 Dec"
+      }
+  ]
+  
