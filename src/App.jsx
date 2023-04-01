@@ -5,6 +5,7 @@ import Blogs from './components/Blogs/Blogs'
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Question from './components/Question/Question';
 
 function App() {
   const [count, setCount] = useState(0)
@@ -14,6 +15,7 @@ function App() {
       <Header></Header>
       <Blogs></Blogs>
       <ToastContainer></ToastContainer>
+      <Question></Question>
     </div>
   )
 }
