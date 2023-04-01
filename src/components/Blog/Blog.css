@@ -1,49 +1,12 @@
-.blog-data img {
-    width: 845px;
-    height: 450px;
-    border-radius: 8px;
+.user-section{
+    display:flex;
+    justify-content:space-between;
 }
-
-.blog-data {
-    width: 845px;
-    height: 783px;
-    border: 1px solid #1111111A;
-    border-radius: 8px;
+.user img{
+    width:50px;
+    height:50px;
+    border-radius: 50%;
 }
-
-.blog-data h4 {
-    font-family: Exo 2;
-    font-size: 24px;
-    font-weight: 700;
-    line-height: 38px;
-    letter-spacing: 0em;
-    text-align: left;
-    color: #111111;
-}
-
-.pub-date {
-    font-family: Exo 2;
-    font-size: 16px;
-    font-weight: 600;
-    line-height: 26px;
-    letter-spacing: 0em;
-    text-align: left;
-}
-
-.title {
-    font-family: Exo 2;
-    font-size: 40px;
-    font-weight: 700;
-    line-height: 64px;
-    letter-spacing: 0em;
-    text-align: left;
-}
-
-.read-time {
-    font-family: Exo 2;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0em;
-    text-align: left;
+.user-info{
+    margin-left: 50px;
 }
